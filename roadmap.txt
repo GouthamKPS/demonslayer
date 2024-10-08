@@ -1,3 +1,4 @@
 
 "The first plan is to be familiar with React JS, a crucial framework" 
 "The second plan is to learn a web framework properly, preferably django." 
+"The new hunter branch is now created" 
