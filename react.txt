@@ -1,2 +1,3 @@
 "React JS is a beautiful framework to use." 
  "It is a very modernized concept that utilizes blocks to save on UI modules" 
+"React was developed by Facebook in 2015" 
