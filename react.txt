@@ -2,3 +2,4 @@
  "It is a very modernized concept that utilizes blocks to save on UI modules" 
 "React was developed by Facebook in 2015" 
 "The React is more popular than Angular and Vue because of the brilliant marketing tactics used by Facebook" 
+"React uses webhooks, to load web pages faster by clickbaiting the users" 
