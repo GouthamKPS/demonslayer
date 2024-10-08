@@ -4,3 +4,4 @@
 "The React is more popular than Angular and Vue because of the brilliant marketing tactics used by Facebook" 
 "React uses webhooks, to load web pages faster by clickbaiting the users" 
 "This was such a nice framework for web" 
+"React maintains nodes in a tree like structure, thus enabling you to trace each compontents" 
