@@ -1,0 +1,1 @@
+"Welcome to Django tutorial. This is a web framework that uses Python as the backend" 
