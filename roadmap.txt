@@ -1,4 +1,5 @@
 
 "The first plan is to be familiar with React JS, a crucial framework" 
 "The second plan is to learn a web framework properly, preferably django." 
-"This is wordth doing it"
+"The lava was hot as ever, and glazed with lightning in thunderstark." 
+
