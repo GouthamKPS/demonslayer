@@ -9,3 +9,5 @@
 =======
 "The react echo system has an excellent global package by the name create-react-app" 
 >>>>>>> hunter
+
+"The wind never settled for the strong. It kept going. Be like the strong."
